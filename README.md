@@ -30,6 +30,16 @@ Get-ChildItem -Path "$RELATIVE_PATH" -File | ForEach-Object {"/data/local-files/
 
 <img width="1566" height="176" alt="image" src="https://github.com/user-attachments/assets/183049f7-7622-49a9-ade7-35bdaf065d11" />
 
+## Wyniki
+
+<img width="490" height="299" alt="image" src="https://github.com/user-attachments/assets/57b8d278-624d-4d7d-8b7b-94580da885ca" />
+<img width="494" height="297" alt="image" src="https://github.com/user-attachments/assets/92a40e19-e706-49f1-a3e0-666b46202dee" />
+<img width="490" height="298" alt="image" src="https://github.com/user-attachments/assets/4ab6a3d0-dd42-4dac-bba8-ffb40c1dbe2c" />
+<img width="497" height="301" alt="image" src="https://github.com/user-attachments/assets/9126a9c3-7192-4607-82ac-5db55f24c35d" />
+<img width="495" height="300" alt="image" src="https://github.com/user-attachments/assets/369af649-9d2c-4145-ba5a-e34a6f88d79f" />
+<img width="497" height="301" alt="image" src="https://github.com/user-attachments/assets/1a6594d0-726e-4a3c-a5a6-37735b741323" />
+<img width="497" height="301" alt="image" src="https://github.com/user-attachments/assets/6b40f313-e767-4935-baf9-881f84e424da" />
+
 
 ## Tech Stack
 
